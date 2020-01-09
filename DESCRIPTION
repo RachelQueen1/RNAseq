@@ -16,3 +16,5 @@ Imports:
     magrittr,
     dplyr,
     biomaRt
+URL: https://github.com/RachelQueen1/RNAseq
+BugReports: https://github.com/RachelQueen1/RNAseq/issues
